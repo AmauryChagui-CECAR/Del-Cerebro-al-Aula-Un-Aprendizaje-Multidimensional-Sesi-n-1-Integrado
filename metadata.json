@@ -1,0 +1,6 @@
+{
+  "name": "Del Cerebro al Aula · Neurodidáctica CECAR",
+  "description": "Laboratorio interactivo de neurociencia cognitiva y neuropsicofisiología aplicada a la educación superior para el Diplomado CECAR 2026-2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
